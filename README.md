@@ -15,4 +15,4 @@ Start python web server:
   $> python -m SimpleHTTPServer 8000
   ```
 
-1. Open a browser and visit localhost:8000
+Open your browser and visit localhost:8000 to check out the website
