@@ -63,6 +63,10 @@
     max-height: 16rem;
 }
 
+.portfolio-logo {
+    font: italic bolder 2.5em uppercase;
+}
+
 .udacity-blue {
     background-color: #02b3e4;
 }
